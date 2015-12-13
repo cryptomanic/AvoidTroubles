@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AvoidTroubles\app\libs\sdk-v1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e2ce3786b6e9519934c4a54aaaaf39525bf4486c">
+        <dex dex="D:\AvoidTroubles\app\build\intermediates\pre-dexed\debug\sdk-v1.0.0-ac5f4c20fb79010f2d224ff7e210ba43a3e6eb8c.jar" />
+    </item>
+    <item
+        jar="D:\AvoidTroubles\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="D:\AvoidTroubles\app\build\intermediates\pre-dexed\debug\classes-9d7b717bd0a47722bbba0c707a324fe09ca2722a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Deepak Yadav\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\AvoidTroubles\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-5c9be06209d6ea0ab0a88e30231cc24ee487d1f2.jar" />
+    </item>
+    <item
+        jar="D:\AvoidTroubles\app\libs\RemoteSensorSDK_release.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9f4379fce8f01cb61ae8b8e78fda522863542613">
+        <dex dex="D:\AvoidTroubles\app\build\intermediates\pre-dexed\debug\RemoteSensorSDK_release-1f3de17fceaf3c793843e698a8e78066bbc32ea2.jar" />
+    </item>
+    <item
+        jar="D:\AvoidTroubles\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\AvoidTroubles\app\build\intermediates\pre-dexed\debug\classes-14a74eb1a2cd90971a5d15613ef2a331b9bb0096.jar" />
+    </item>
+    <item
+        jar="D:\AvoidTroubles\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\AvoidTroubles\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-7e84f78fa2e24292dbb84902cae79726adbdab09.jar" />
+    </item>
+    <item
+        jar="D:\AvoidTroubles\app\libs\chord-v2.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e9577c34d48455c2e642b2689e0fa1d94babc1be">
+        <dex dex="D:\AvoidTroubles\app\build\intermediates\pre-dexed\debug\chord-v2.0.0-24e5e9883d94de754efdcc3ff9ad212964f64f79.jar" />
+    </item>
+
+</items>
